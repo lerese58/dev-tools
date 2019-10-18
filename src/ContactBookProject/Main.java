@@ -4,6 +4,8 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
+// release version 1.0
+
 public class Main {
     public static void main(String[] args) throws Exception {
         File fileXML = new File("./src/ContactBookProject/static/book.xml");
